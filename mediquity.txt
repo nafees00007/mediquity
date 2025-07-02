@@ -5,4 +5,8 @@ hiiii
 hiii
 hello mohanpur 
 hello dbg
+<<<<<<< HEAD
 hello gachi
+=======
+hello gachi rintu
+>>>>>>> c6980e278f91fa70eb07ca9beedec9995f1473f6
